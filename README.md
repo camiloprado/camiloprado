@@ -1,5 +1,4 @@
 ##
-
   ![](https://github-readme-streak-stats.herokuapp.com/?user=camiloprado&theme=react&size=0)
   ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=camiloprado&layout=compact&theme=react&size=1000)
 
@@ -10,7 +9,6 @@
   <img align="center" alt="Camilo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Camilo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
-
 ##
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilo-veríssimo-garcia-prado-52b57016b/)
