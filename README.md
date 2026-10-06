@@ -4,7 +4,6 @@ Graduando em Ciência da Computação (Uni-FACEF). Trabalho com **Python e SQL**
 
 #### Em destaque
 - **[SteamPrev](https://github.com/camiloprado/SteamPrev_Machine_Learning)** — previsão de retenção Steam (~86% na classe “mantém”); ETL → PostgreSQL → ensembles + [extensão Chrome](https://github.com/camiloprado/SteamPrev_Extensao)
-- **[ETL Medallion](https://github.com/camiloprado/ETL-Medallion)** — bronze/silver/gold em Python + SQL (quando o repo estiver público)
 
 #### Stack
 `Python` · `SQL` · `PostgreSQL` · `pandas` · `scikit-learn` · `Git` · bases de nuvem (AWS/GCP)
