@@ -1,14 +1,15 @@
-##
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=camiloprado&theme=react&size=0)
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=camiloprado&layout=compact&theme=react&size=1000)
+### Olá, sou o Camilo Prado
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Camilo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Camilo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Camilo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Camilo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Camilo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
-##
+Graduando em Ciência da Computação (Uni-FACEF). Trabalho com **Python e SQL** em dados e automação — de pipelines e qualidade até modelos que vão pra produção. Busco papéis high-code (Data Engineer / backend Python), remoto.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilo-veríssimo-garcia-prado-52b57016b/)
+#### Em destaque
+- **[SteamPrev](https://github.com/camiloprado/SteamPrev_Machine_Learning)** — previsão de retenção Steam (~86% na classe “mantém”); ETL → PostgreSQL → ensembles + [extensão Chrome](https://github.com/camiloprado/SteamPrev_Extensao)
+- **[ETL Medallion](https://github.com/camiloprado/ETL-Medallion)** — bronze/silver/gold em Python + SQL (quando o repo estiver público)
+
+#### Stack
+`Python` · `SQL` · `PostgreSQL` · `pandas` · `scikit-learn` · `Git` · bases de nuvem (AWS/GCP)
+
+#### Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilo-verissimo-garcia-prado-52b57016b/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camiloprado&layout=compact&theme=transparent&hide_border=true)
